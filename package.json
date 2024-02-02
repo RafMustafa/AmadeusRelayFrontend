@@ -20,7 +20,7 @@
     "bootstrap": "^4.1.1",
     "bootstrap-vue": "^1.5.1",
     "compression-webpack-plugin": "^1.1.11",
-    "eth-sig-util": "^1.4.2",
+    "eth-sig-util": "^3.0.1",
     "ethjs": "^0.3.6",
     "font-awesome": "^4.7.0",
     "luxon": "^1.2.0",
